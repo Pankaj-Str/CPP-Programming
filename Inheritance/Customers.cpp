@@ -5,7 +5,6 @@ class Orders{
     public : void order_info(){
         cout<<"Foods Orders - Smaosa"<<endl;
     }
-
 };
 class Amounts : public Orders{
     public : void amount_info(){
