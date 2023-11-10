@@ -1,5 +1,5 @@
-# Learn  C++
-```
+# C++ Learning Path
+
 | Day Number   |        Topic           |
 |--------------|------------------------|
 | Day 1        | Comments               |
@@ -41,6 +41,3 @@
 | Day 37       | Web Programming        |
 | Day 38       | Useful Resources       |
 | Day 39       | Questions and Answers  |
-
-
-```
