@@ -5,39 +5,33 @@
 | Day 1        | Comments               |
 | Day 2        | Data Types             |
 | Day 3        | Variable Types         |
-| Day 4        | Variable Scope         |
-| Day 5        | Constants/Literals     |
-| Day 6        | Modifier Types         |
-| Day 7        | Storage Classes        |
-| Day 8        | Operators              |
-| Day 9        | Loop Types             |
-| Day 10       | Decision Making        |
-| Day 11       | Functions              |
-| Day 12       | Numbers                |
-| Day 13       | Arrays                 |
-| Day 14       | Strings                |
-| Day 15       | Pointers               |
-| Day 16       | References             |
-| Day 17       | Date & Time            |
-| Day 18       | Basic Input/Output     |
-| Day 19       | Data Structures        |
-| Day 20       | Object Oriented        |
-| Day 21       | Classes & Objects      |
-| Day 22       | Inheritance            |
-| Day 23       | Overloading            |
-| Day 24       | Polymorphism           |
-| Day 25       | Abstraction            |
-| Day 26       | Encapsulation          |
-| Day 27       | Interfaces             |
-| Day 28       | Advanced               |
-| Day 29       | Files and Streams      |
-| Day 30       | Exception Handling     |
-| Day 31       | Dynamic Memory         |
-| Day 32       | Namespaces             |
-| Day 33       | Templates              |
-| Day 34       | Preprocessor           |
-| Day 35       | Signal Handling        |
-| Day 36       | Multithreading         |
-| Day 37       | Web Programming        |
-| Day 38       | Useful Resources       |
-| Day 39       | Questions and Answers  |
+| Day 4        | Constants/Literals     |
+| Day 5        | Storage Classes        |
+| Day 6        | Operators              |
+| Day 7        | Loop Types             |
+| Day 8        | Decision Making        |
+| Day 9        | Functions              |
+| Day 10       | Numbers                |
+| Day 11       | Arrays                 |
+| Day 12       | Strings                |
+| Day 13       | Pointers               |
+| Day 14       | References             |
+| Day 15       | Date & Time            |
+| Day 16       | Basic Input/Output     |
+| Day 17       | Inheritance            |
+| Day 18       | Classes & Objects      |
+| Day 19       | Overloading            |
+| Day 20       | Polymorphism           |
+| Day 21       | Abstraction            |
+| Day 22       | Encapsulation          |
+| Day 23       | Interfaces             |
+| Day 24       | Files and Streams      |
+| Day 25       | Exception Handling     |
+| Day 26       | Dynamic Memory         |
+| Day 27       | Namespaces             |
+| Day 28       | Templates              |
+| Day 29       | Preprocessor           |
+| Day 30       | Signal Handling        |
+| Day 31       | Multithreading         |
+| Day 32       | Web Programming        |
+| Day 33       | Questions and Answers  |
