@@ -98,4 +98,4 @@ int main() {
 }
 ```
 
-Feel free to visit my website for additional tutorials and resources: [Codes with Pankaj](https://www.codeswithpankaj.com/).
+Feel free to visit my website for additional tutorials and resources: [Codes with Pankaj](https://www.codeswithpankaj.com/post/the-basics-of-c-data-types-a-tutorial-with-pankaj-s-code).
