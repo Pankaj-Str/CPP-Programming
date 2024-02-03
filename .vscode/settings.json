@@ -1,6 +1,7 @@
 {
     "cmake.sourceDirectory": "/workspaces/Learn-CPP/Operator Overloading",
     "files.associations": {
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "iostream": "cpp"
     }
 }
