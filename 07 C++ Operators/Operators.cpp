@@ -1,7 +1,6 @@
 #include <iostream>
 
-// Function declaration
-void displayMessage();
+using namespace std;
 
 int main() {
     // Arithmetic operators
@@ -37,14 +36,9 @@ int main() {
     std::cout << "\nLogical Operators:\n";
     std::cout << "Logical AND: " << logicalAnd << ", Logical OR: " << logicalOr << ", Logical NOT: " << logicalNot << std::endl;
 
-    // Calling a function
-    displayMessage();
+
 
     return 0;
 }
 
-// Definition of the function
-void displayMessage() {
-    
-    std::cout << "\nLearn more at www.codeswithpankaj.com" << std::endl;
-}
+
