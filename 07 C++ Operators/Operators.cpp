@@ -1,44 +1,58 @@
+// Tutorial: CodesWithPankaj - C++ Operators
+
 #include <iostream>
 
-using namespace std;
-
 int main() {
-    // Arithmetic operators
-    int num1 = 10;
-    int num2 = 5;
+    // Arithmetic Operators:
+    int a = 5, b = 3;
+    int sum = a + b;  // sum is now 8
 
-    int sum = num1 + num2;
-    int difference = num1 - num2;
-    int product = num1 * num2;
-    int quotient = num1 / num2;
-    int remainder = num1 % num2;
+    int difference = a - b;  // difference is now 2
 
-    // Relational operators
-    bool isEqual = (num1 == num2);
-    bool isNotEqual = (num1 != num2);
-    bool isGreaterThan = (num1 > num2);
-    bool isLessThan = (num1 < num2);
-    bool isGreaterOrEqual = (num1 >= num2);
-    bool isLessOrEqual = (num1 <= num2);
+    int product = a * b;  // product is now 15
 
-    // Logical operators
-    bool logicalAnd = (true && false);
-    bool logicalOr = (true || false);
-    bool logicalNot = !true;
+    int quotient = a / b;  // quotient is now 1 (integer division)
 
-    // Displaying results
-    std::cout << "Arithmetic Operators:\n";
-    std::cout << "Sum: " << sum << ", Difference: " << difference << ", Product: " << product << ", Quotient: " << quotient << ", Remainder: " << remainder << std::endl;
+    int remainder = a % b;  // remainder is now 2
 
-    std::cout << "\nRelational Operators:\n";
-    std::cout << "Equal: " << isEqual << ", Not Equal: " << isNotEqual << ", Greater Than: " << isGreaterThan << ", Less Than: " << isLessThan << ", Greater or Equal: " << isGreaterOrEqual << ", Less or Equal: " << isLessOrEqual << std::endl;
+    // Relational Operators:
+    bool isEqual = (a == b);  // isEqual is false
 
-    std::cout << "\nLogical Operators:\n";
-    std::cout << "Logical AND: " << logicalAnd << ", Logical OR: " << logicalOr << ", Logical NOT: " << logicalNot << std::endl;
+    bool isNotEqual = (a != b);  // isNotEqual is true
 
+    bool isGreaterThan = (a > b);  // isGreaterThan is true
 
+    bool isLessThan = (a < b);  // isLessThan is false
+
+    bool isGreaterOrEqual = (a >= b);  // isGreaterOrEqual is true
+
+    bool isLessOrEqual = (a <= b);  // isLessOrEqual is false
+
+    // Logical Operators:
+    bool condition1 = true, condition2 = false;
+    bool resultAND = (condition1 && condition2);  // resultAND is false
+
+    bool resultOR = (condition1 || condition2);  // resultOR is true
+
+    bool resultNOT = !condition1;  // resultNOT is false
+
+    // Displaying results:
+    std::cout << "Sum: " << sum << std::endl;
+    std::cout << "Difference: " << difference << std::endl;
+    std::cout << "Product: " << product << std::endl;
+    std::cout << "Quotient: " << quotient << std::endl;
+    std::cout << "Remainder: " << remainder << std::endl;
+
+    std::cout << "Is Equal? " << std::boolalpha << isEqual << std::endl;
+    std::cout << "Is Not Equal? " << isNotEqual << std::endl;
+    std::cout << "Is Greater Than? " << isGreaterThan << std::endl;
+    std::cout << "Is Less Than? " << isLessThan << std::endl;
+    std::cout << "Is Greater Or Equal? " << isGreaterOrEqual << std::endl;
+    std::cout << "Is Less Or Equal? " << isLessOrEqual << std::endl;
+
+    std::cout << "Result AND: " << resultAND << std::endl;
+    std::cout << "Result OR: " << resultOR << std::endl;
+    std::cout << "Result NOT: " << resultNOT << std::endl;
 
     return 0;
 }
-
-
