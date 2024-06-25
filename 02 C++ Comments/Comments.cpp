@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 // This is a single-line comment
 
 /*
@@ -11,7 +11,7 @@
 
 int main() {
     // Display a message on the console
-    std::cout << "Hello, CodesWithPankaj!\n"; // You can also add comments at the end of a line
+    cout << "Hello, CodesWithPankaj!\n"; // You can also add comments at the end of a line
 
     return 0;
 }

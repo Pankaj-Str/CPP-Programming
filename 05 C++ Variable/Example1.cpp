@@ -4,19 +4,17 @@ using namespace std;
 
 int main(){
 
-    const int number = 10;
-
-    cout<<"Number is : "<<number<<endl;
-
     string name = "joy";
-    int age = 56;
-    float height = 6.7;
-    char ch = 'A';
+    char ltr = 'a';
+    float height = 4.5;
+    int age = 12;
+    
+    // print all variables
 
-    cout<<"Your Name is "<<name<<endl;
-    cout<<"Your Age is "<<age<<endl;
-    cout<<"Your height is "<<height<<endl;
-    cout<<"Your ch is "<<ch<<endl;
+    cout<<"your name is "<<name<<endl;
+    cout<<"your letter is "<<ltr<<endl;
+    cout<<"your height is "<<height<<endl;
+    cout<<"your age is "<<age<<endl;
 
 
     return 0;
