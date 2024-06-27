@@ -15,5 +15,14 @@ int main() {
 
     cout<< (90 != 90) <<endl; 
 
+
+    // and &&
+
+    cout<<(45 < 90 && 56 != 56)<<endl;
+
+    // or ||
+
+    cout<<(45 < 90 || 56 != 56)<<endl;
+
     return 0;
 }

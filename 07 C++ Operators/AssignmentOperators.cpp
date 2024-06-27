@@ -8,7 +8,7 @@ int main() {
     int c = a;
     cout << "c: " << c << endl;
 
-    // Addition assignment\
+    // Addition assignment
     // a = a + b
     a += b;
     cout << "a: " << a << endl;
