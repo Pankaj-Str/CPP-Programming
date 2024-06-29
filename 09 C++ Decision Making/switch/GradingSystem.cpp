@@ -20,7 +20,7 @@ int main(){
     case 'A' :
     cout<<"Distinction"<<endl;
     break;
-    case 'B' :
+    case 'B' :   
     cout<<"First Class"<<endl;
     break;
     case 'C' :
