@@ -17,7 +17,7 @@ int main(){
     //fatch all data from array 
 
         for(int i = 0 ; i <4 ;i++){
-            cout<<"Element on array "<<data[i]<<endl;
+            cout<<"Element on array "<<i<<" = "<<data[i]<<endl;
         }
 
     return 0;
