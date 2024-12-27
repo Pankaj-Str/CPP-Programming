@@ -1,15 +1,17 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 int main() {
     // String comparison
-    std::string str1 = "apple";
-    std::string str2 = "orange";
+    string str1 = "apple";
+    string str2 = "orange";
 
     if (str1 == str2) {
-        std::cout << "Strings are equal." << std::endl;
+        cout << "Strings are equal." <<endl;
     } else {
-        std::cout << "Strings are not equal." << std::endl;
+        cout << "Strings are not equal." << endl;
     }
 
     return 0;
