@@ -2,15 +2,12 @@
 
 using namespace std;
 
+// print hello word - codes with pankaj
 
-int main(){
-
-    cout<<"welcome to codeswithpankaj.com"<<endl;
-    cout<<989876<<endl;
-    cout<<"your number is : "<<90788678<<endl;
-
-
-
-
+int main()
+{
+    cout << "Welcome to codes with pankaj" << endl;
+    // print number 
+    cout << 123 << endl;
     return 0;
 }
