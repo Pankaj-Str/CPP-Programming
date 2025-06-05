@@ -12,6 +12,12 @@ class Student{
 
     public : Student(){
         cout<<"this is demo...."<<endl;
+       
+    }
+
+
+    public : Student(int numbers){
+        cout<<"this is number"<<numbers<<endl;
     }
 
     public : void info(){
@@ -29,7 +35,8 @@ class Student{
 
 int main(){
 
-    Student obj;
+    Student obj(456);
+    Student obj1;
 
     
     obj.name = "joy";
