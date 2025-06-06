@@ -15,12 +15,17 @@ class Product : public Client{
 };
 
 
-
+class Amount : public Product{
+    public : void Amount_info(){
+        cout<<"Amount 300/- "<<endl;
+    }
+};
 int main(){
 
-    Product obj;
+    Amount obj;
     obj.ProductName();
     obj.client_info();
+    obj.Amount_info();
 
 
 
