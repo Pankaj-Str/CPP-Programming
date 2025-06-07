@@ -80,11 +80,7 @@ Assign values to variables or modify them.
 | `*=`     | Multiply and assign        | `x *= 2` (x = x * 2)        |
 | `/=`     | Divide and assign          | `x /= 2` (x = x / 2)        |
 | `%=`     | Modulus and assign         | `x %= 3` (x = x % 3)        |
-| `&=`     | Bitwise AND and assign     | `x &= 3` (x = x & 3)        |
-| `|=`     | Bitwise OR and assign      | `x |= 3` (x = x | 3)        |
-| `^=`     | Bitwise XOR and assign     | `x ^= 3` (x = x ^ 3)        |
-| `<<=`    | Left shift and assign      | `x <<= 1` (x = x << 1)      |
-| `>>=`    | Right shift and assign     | `x >>= 1` (x = x >> 1)      |
+
 
 ### 2.6. Increment and Decrement Operators
 Increase or decrease a variable’s value by 1.
